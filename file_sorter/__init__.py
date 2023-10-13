@@ -1,0 +1,1 @@
+from .file_sorter import normalize_string
